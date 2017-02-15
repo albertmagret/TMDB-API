@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TMDB-API</string>
+    <string name="search">search keywords</string>
+</resources>
